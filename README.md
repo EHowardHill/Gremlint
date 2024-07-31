@@ -1,0 +1,2 @@
+# Gremlint
+ Chaotic Discord AI
